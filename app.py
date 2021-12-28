@@ -6,4 +6,3 @@ number1= st.slider("Pick any number",0,100)
 number2= st.slider("Pick any",0,100)
 x= number1+number2
 st.write(x)
-!streamlit run app.py & npx localtunnel --port 8501
